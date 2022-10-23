@@ -55,7 +55,7 @@
   "dependencies": {
     "base64-encode": "~1.0.1",
     "commander": ">=2.2.0",
-    "escodegen": "git://github.com/Constellation/escodegen.git#41fbbe5058849b5e082542c5cfce76c2d67792e6",
+    "escodegen": "1.3.3",
     "minify": "3.0.5"
   }
 }
